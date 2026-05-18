@@ -1,6 +1,6 @@
 # Hi, I'm Mahzabin Ferdous 
 
-Backend Developer specializing in **Java & Spring Boot**.  
+Backend Developer with over 2 years of experience specializing in **Java and Spring Boot.**  
 I build scalable backend systems, clean APIs, and event-driven architectures.
 
 ---

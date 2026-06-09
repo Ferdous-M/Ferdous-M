@@ -1,8 +1,8 @@
-# Hi, I'm Mahzabin Ferdous 👋
+# Hi, I'm Mahzabin Ferdous 
 
 Backend Software Engineer with 2+ years of experience building scalable backend applications using Java and Spring Boot. Passionate about designing microservices, distributed systems, event-driven architectures, and high-performance APIs.
 
-## 🚀 Tech Stack
+# Tech Stack
 
 **Languages:** Java • Python • C++
 
@@ -22,20 +22,20 @@ Backend Software Engineer with 2+ years of experience building scalable backend 
 
 **Tools:** Git • Maven • Gradle • Swagger/OpenAPI
 
-## 🔬 Research Interests
+## Research Interests
 
 * Web Crawling & Data Collection
 * Machine Learning
 * Explainable AI (XAI)
 * Large-Scale Data Processing
 
-## 💼 Professional Experience
+## Professional Experience
 
 * Backend Software Engineer at AladinAI
 * Junior Backend Developer at ATI Limited
 * Junior Backend Developer at NexDecade Technology
 
-## 📌 Featured Projects
+## Featured Projects
 
 🚖 Ride Sharing Platform (Microservices Architecture)
 
@@ -49,7 +49,7 @@ Backend Software Engineer with 2+ years of experience building scalable backend 
 
 🧠 Explainable Cancer Prediction Using Machine Learning & XAI
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 * System Design
 * Distributed Systems

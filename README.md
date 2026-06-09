@@ -1,44 +1,61 @@
-Hi, I'm Mahzabin Ferdous
+# Hi, I'm Mahzabin Ferdous 👋
 
-Backend Software Engineer with 2+ years of experience building scalable backend applications using Java and Spring Boot. Experienced in microservices, distributed systems, event-driven architectures, and cloud-native applications.
+Backend Software Engineer with 2+ years of experience building scalable backend applications using Java and Spring Boot. Passionate about designing microservices, distributed systems, event-driven architectures, and high-performance APIs.
 
-Tech Stack
+## 🚀 Tech Stack
 
-Languages: Java • Python • C++
+**Languages:** Java • Python • C++
 
-Backend: Spring Boot • Spring Security • Spring Data JPA • Hibernate
+**Backend:** Spring Boot • Spring Security • Spring Data JPA • Hibernate
 
-Architecture: Microservices • REST APIs • Event-Driven Systems • Distributed Systems
+**Architecture:** Microservices • REST APIs • Event-Driven Systems • Distributed Systems
 
-Messaging: Apache Kafka
+**Messaging:** Apache Kafka
 
-Databases: PostgreSQL • MySQL
+**Databases:** PostgreSQL • MySQL
 
-Caching: Redis
+**Caching:** Redis
 
-Real-Time: WebSocket (STOMP)
+**Real-Time Communication:** WebSocket (STOMP)
 
-Cloud & DevOps: AWS EC2 • Docker • GitHub Actions • CI/CD
+**Cloud & DevOps:** AWS EC2 • Docker • GitHub Actions • CI/CD
 
-Tools: Git • Maven • Gradle • Swagger/OpenAPI
+**Tools:** Git • Maven • Gradle • Swagger/OpenAPI
 
-Research Interests
+## 🔬 Research Interests
 
-Web Crawling • Machine Learning • Explainable AI (XAI) • Large-Scale Data Processing
+* Web Crawling & Data Collection
+* Machine Learning
+* Explainable AI (XAI)
+* Large-Scale Data Processing
 
-Featured Projects
+## 💼 Professional Experience
 
-🚖 Ride Sharing Platform (Microservices)
+* Backend Software Engineer at AladinAI
+* Junior Backend Developer at ATI Limited
+* Junior Backend Developer at NexDecade Technology
 
-💬 Real-Time Chat System
+## 📌 Featured Projects
+
+🚖 Ride Sharing Platform (Microservices Architecture)
+
+💬 Real-Time Chat System (WebSocket & STOMP)
 
 🏦 Loan Management System
 
 🛒 E-Commerce Platform
 
-🕸️ Web Crawler
+🕸️ Web Crawler and Website Classification System
 
-🧠 Explainable Cancer Prediction
+🧠 Explainable Cancer Prediction Using Machine Learning & XAI
+
+## 🌱 Currently Exploring
+
+* System Design
+* Distributed Systems
+* Advanced Spring Ecosystem
+* Machine Learning & Explainable AI
+
 
 ## 🌐 Connect with me  
 

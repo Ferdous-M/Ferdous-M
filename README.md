@@ -1,24 +1,44 @@
-# Hi, I'm Mahzabin Ferdous 
+Hi, I'm Mahzabin Ferdous
 
-Backend Developer with over 2 years of experience specializing in **Java and Spring Boot.**  
-I build scalable backend systems, clean APIs, and event-driven architectures.
+Backend Software Engineer with 2+ years of experience building scalable backend applications using Java and Spring Boot. Experienced in microservices, distributed systems, event-driven architectures, and cloud-native applications.
 
----
+Tech Stack
 
-## Tech Stack
+Languages: Java • Python • C++
 
-**Languages:** Java  
-**Backend:** Spring Boot, Spring Security, Spring Data JPA  
-**Architecture:** Microservices, REST APIs, Event-Driven Systems  
-**Messaging:** Apache Kafka  
-**Databases:** PostgreSQL, MySQL  
-**Caching:** Redis  
-**Real-time:** WebSockets (STOMP)  
-**DevOps / Cloud:** AWS EC2, Docker, CI/CD (GitHub Actions)  
-**Build Tools:** Maven, Gradle  
-**API Docs:** Swagger / OpenAPI  
+Backend: Spring Boot • Spring Security • Spring Data JPA • Hibernate
 
----
+Architecture: Microservices • REST APIs • Event-Driven Systems • Distributed Systems
+
+Messaging: Apache Kafka
+
+Databases: PostgreSQL • MySQL
+
+Caching: Redis
+
+Real-Time: WebSocket (STOMP)
+
+Cloud & DevOps: AWS EC2 • Docker • GitHub Actions • CI/CD
+
+Tools: Git • Maven • Gradle • Swagger/OpenAPI
+
+Research Interests
+
+Web Crawling • Machine Learning • Explainable AI (XAI) • Large-Scale Data Processing
+
+Featured Projects
+
+🚖 Ride Sharing Platform (Microservices)
+
+💬 Real-Time Chat System
+
+🏦 Loan Management System
+
+🛒 E-Commerce Platform
+
+🕸️ Web Crawler
+
+🧠 Explainable Cancer Prediction
 
 ## 🌐 Connect with me  
 

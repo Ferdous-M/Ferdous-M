@@ -1,61 +1,108 @@
-# Hi, I'm Mahzabin Ferdous 
+# Hi, I'm Mahzabin Ferdous 👋
 
-Backend Software Engineer with 2+ years of experience building scalable backend applications using Java and Spring Boot. Passionate about designing microservices, distributed systems, event-driven architectures, and high-performance APIs.
+## Software Engineer | AI/ML Engineer | Backend Developer
 
-# Tech Stack
+Software Engineer with 2+ years of experience building scalable backend systems using Java and Spring Boot. Experienced in microservices, distributed systems, event-driven architectures, and high-performance APIs.
 
-**Languages:** Java • Python • C++
+Currently expanding my expertise in Artificial Intelligence and Machine Learning through research and hands-on projects, focusing on predictive modeling, Explainable AI (XAI), and intelligent software systems.
 
-**Backend:** Spring Boot • Spring Security • Spring Data JPA • Hibernate
+---
 
-**Architecture:** Microservices • REST APIs • Event-Driven Systems • Distributed Systems
+## 🛠️ Tech Stack
 
-**Messaging:** Apache Kafka
+### Programming Languages
+Java • Python • C++
 
-**Databases:** PostgreSQL • MySQL
+### AI & Machine Learning
+Scikit-learn • Pandas • NumPy • XGBoost  
+SHAP • LIME • PyTorch • TensorFlow/Keras  
+Feature Engineering • Model Evaluation • Hyperparameter Tuning
 
-**Caching:** Redis
+### Backend Engineering
+Spring Boot • Spring Security • Spring Data JPA • Hibernate  
+REST APIs • Microservices • Distributed Systems  
+Event-Driven Architecture
 
-**Real-Time Communication:** WebSocket (STOMP)
+### Data & Messaging
+PostgreSQL • MySQL • Redis • Apache Kafka
 
-**Cloud & DevOps:** AWS EC2 • Docker • GitHub Actions • CI/CD
+### AI & Backend Deployment
+Docker • AWS EC2 • CI/CD • Linux  
+GitHub Actions • Maven • Gradle
 
-**Tools:** Git • Maven • Gradle • Swagger/OpenAPI
+### Tools
+Git • Jupyter Notebook • Swagger/OpenAPI  
+JUnit • Mockito
 
-## Research Interests
+---
 
-* Web Crawling & Data Collection
-* Machine Learning
-* Explainable AI (XAI)
-* Large-Scale Data Processing
+## 🔬 Research Interests
 
-## Professional Experience
+- Machine Learning
+- Explainable AI (XAI)
+- Healthcare AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Data Processing & Intelligent Systems
 
-* Backend Software Engineer at AladinAI
-* Junior Backend Developer at ATI Limited
-* Junior Backend Developer at NexDecade Technology
+---
 
-## Featured Projects
+## 🧠 AI/ML Projects
 
-🚖 Ride Sharing Platform (Microservices Architecture)
+### 🧬 Explainable Cancer Prediction Using Machine Learning & XAI
+- Developed ML models for cancer prediction using healthcare-related datasets.
+- Compared Logistic Regression, Random Forest, XGBoost, and MLP models.
+- Applied SHAP and LIME for model interpretation and feature importance analysis.
 
-💬 Real-Time Chat System (WebSocket & STOMP)
+### 🏦 Credit Wise Loan Prediction System
+- Built a machine learning-based loan approval prediction system.
+- Performed data preprocessing, feature engineering, model training, and evaluation.
+- Compared classification models for reliable prediction.
 
-🏦 Loan Management System
+### 🛒 SmartCart Customer Segmentation
+- Developed an unsupervised learning system using customer behavior data.
+- Applied K-Means clustering, PCA, and clustering evaluation techniques.
 
-🛒 E-Commerce Platform
+---
 
-🕸️ Web Crawler and Website Classification System
+## 💻 Backend Projects
 
-🧠 Explainable Cancer Prediction Using Machine Learning & XAI
+### 🚖 Ride Sharing Platform (Microservices Architecture)
+- Developed scalable backend services using Spring Boot, Kafka, Redis, PostgreSQL, and WebSocket.
+- Implemented event-driven workflows for ride management and real-time communication.
 
-## Currently Exploring
+### 💬 Real-Time Chat System
+- Built real-time communication features using WebSocket and STOMP.
 
-* System Design
-* Distributed Systems
-* Advanced Spring Ecosystem
-* Machine Learning & Explainable AI
+### 🛒 E-Commerce Platform
+- Developed backend services following microservices architecture principles.
 
+### 🕸️ Web Crawler & Website Classification System
+- Worked on automated data collection and intelligent website analysis.
+
+---
+
+## 💼 Professional Experience
+
+### Backend Software Engineer — AladinAI
+- Building scalable microservices-based backend systems.
+
+### Junior Backend Developer — ATI Limited
+
+### Junior Backend Developer — NexDecade Technology
+
+---
+
+## 📚 Currently Exploring
+
+- Deep Learning
+- Large Language Models (LLMs)
+- RAG Pipelines
+- AI Agents
+- ML Deployment & MLOps
+- System Design
+
+---
 
 ## 🌐 Connect with me  
 

@@ -19,17 +19,17 @@ Java • Python • C++ • JavaScript
 HTML • CSS • JavaScript
 React • Bootstrap • Angular (Basic)
 
-### AI & Machine Learning
-
-Scikit-learn • Pandas • NumPy • XGBoost
-SHAP • LIME • PyTorch • TensorFlow/Keras
-Feature Engineering • Model Evaluation • Hyperparameter Tuning
-
 ### Backend Engineering
 
 Spring Boot • Spring Security • Spring Data JPA • Hibernate
 REST APIs • Microservices • Distributed Systems
 Event-Driven Architecture • WebSocket
+
+### AI & Machine Learning
+
+Scikit-learn • Pandas • NumPy • XGBoost
+SHAP • LIME • PyTorch • TensorFlow/Keras
+Feature Engineering • Model Evaluation • Hyperparameter Tuning
 
 ### Databases & Messaging
 
@@ -140,6 +140,9 @@ Worked on backend and application development.
 ## Areas of Interest
 
 Backend Engineering • Software Engineering • AI/ML • Full-Stack Development • Intelligent Systems • Applied Research
+
+---
+
 
 
 ## 🌐 Connect with me  

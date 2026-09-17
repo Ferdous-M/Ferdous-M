@@ -1,6 +1,6 @@
 # Hi, I'm Mahzabin Ferdous
 
-### Software Engineer | Backend Developer | AI/ML Engineer
+### Full Stack Software Engineer || AI/ML Engineer
 
 Software Engineer with **2+ years of experience** building scalable backend systems and applications using **Java and Spring Boot**. Experienced in **microservices, distributed systems, event-driven architectures, REST APIs, and high-performance backend services**.
 
